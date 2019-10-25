@@ -21,13 +21,10 @@ num1 * num2
 end
 
 def modulo(num1, num2)
-num1 = 
-num2 = 
+num1 = 34
+num2 = 5
 num1.modulo(num2)
 end
-
-puts num1.modulo(num2) 
-puts num3.modulo(num4) 
 
 def square_root(num)
 num1 = 9
