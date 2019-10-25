@@ -26,6 +26,9 @@ num2 =
 num1.modulo(num2)
 end
 
+puts num1.modulo(num2) 
+puts num3.modulo(num4) 
+
 def square_root(num)
 num1 = 9
 (num1)
